@@ -1,0 +1,11 @@
+{
+  "pune": {
+    "data": {
+      "city": "Pune",
+      "temperature": 36.88,
+      "condition": "clear sky",
+      "wind": "4.85 m/s"
+    },
+    "timestamp": 1746431637942
+  }
+}
